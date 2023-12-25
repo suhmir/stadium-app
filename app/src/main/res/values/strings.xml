@@ -1,0 +1,40 @@
+<resources>
+    //App title
+    <string name="app_name">My Soccer Stadiums</string>
+
+    //labels
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="map">Map</string>
+
+    //content descriptions
+    <string name="stadium_image">Stadium image</string>
+    <string name="share_button">Share Button</string>
+    <string name="like_button">Like Button</string>
+    <string name="background_image">Background Image</string>
+    <string name="image_parallax">Image Parallax</string>
+
+
+    <string name="recommendations">Recommendations</string>
+
+    <!-- Sorting options -->
+    <string name="sort_alphabetic">Alphabetic (A to Z)</string>
+    <string name="sort_newest">Age (Newest to Oldest)</string>
+    <string name="sort_oldest">Age (Oldest to Newest)</string>
+    <string name="sort_largest">Capacity (Largest to Smallest)</string>
+    <string name="sort_smallest">Capacity (Smallest to Largest)</string>
+
+
+
+    <string name="action_settings">Settings</string>
+
+    //fragments
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name = "hello_first_fragment">Hello First Fragment</string>
+    <string name = "hello_second_fragment">Hello Second Fragment. Arg: 1$s</string>
+
+</resources>

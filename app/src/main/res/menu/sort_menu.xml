@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort_alphabetic"
+        android:title="Alphabetic (A to Z)" />
+    <item
+        android:id="@+id/sort_newest"
+        android:title="Age (Newest to Oldest)" />
+    <item
+        android:id="@+id/sort_oldest"
+        android:title="Age (Oldest to Newest)" />
+    <item
+        android:id="@+id/sort_largest"
+        android:title="Capacity (Largest to Smallest)" />
+    <item
+        android:id="@+id/sort_smallest"
+        android:title="Capacity (Smallest to Largest)" />
+</menu>
